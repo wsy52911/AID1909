@@ -1,2 +1,2 @@
 def fun():
-    print('Jame做的工作')
+    print('Tom做的工作Jame做不了')
