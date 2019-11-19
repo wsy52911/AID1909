@@ -3,3 +3,6 @@ def fun():
 
     
 print('远程修改!')
+
+def fun1():
+    print('77来了!!')
